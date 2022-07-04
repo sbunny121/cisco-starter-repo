@@ -2,7 +2,9 @@
     "name": "pylon",
     "version": "0.1.0",
     "private": true,
+    "homepage"= "https://github.com/vagabond-systems/cisco-starter-repo",
     "dependencies": {
         "websocket": "^1.0.34"
+    
     }
 }
